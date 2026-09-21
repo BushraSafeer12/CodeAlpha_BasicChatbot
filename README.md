@@ -1,8 +1,5 @@
 # CodeAlpha_BasicChatbot
 A simple rule-based chatbot built with Python for the CodeAlpha Internship.
-# CodeAlpha Basic Chatbot
-
-A simple rule-based chatbot built using Python.
 
 ## Features
 
